@@ -49,12 +49,6 @@ This is more than a portfolio — it’s an experience!
 ├── /assets
 │ └── Kaviya_Resume.pdf # Downloadable resume file
 
-yaml
-Copy
-Edit
-
----
-
 ## 💬 Supported Commands
 
 | Keyword       | What It Does                                                  |
@@ -82,23 +76,18 @@ To run the website locally:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/kaviya-chat-portfolio.git
-Open in browser
 
+2.Open in browser
 Navigate to the project folder
-
 Open index.html in your preferred browser
 
-Preserve structure
-
+3.Preserve structure
 Ensure the /images and /assets folders remain intact for smooth functioning
 
 🛠️ Tech Stack
 🌐 HTML5
-
 🎨 CSS3
-
 ⚙️ Vanilla JavaScript
-
 🖼️ SVG Icons
 
 📱 Responsive Design (Mobile-first)
