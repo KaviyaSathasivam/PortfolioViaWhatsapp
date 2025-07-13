@@ -99,7 +99,10 @@ This project was born from the idea of blending creativity with modern UI/UX pra
 Whether you're an employer, recruiter, or just a curious coder, this chat-style portfolio offers a fun and effective way to get to know me.
 
 📸 Demo Preview
-(Add screenshots or screen recordings here if needed)
+<img width="953" height="916" alt="Screenshot 2025-07-13 185057" src="https://github.com/user-attachments/assets/33dfd14a-dfd8-401b-bdaf-09696e4b9c1d" />
+
+<img width="947" height="907" alt="image" src="https://github.com/user-attachments/assets/604bf57b-35aa-4371-b786-b57e4f1792fa" />
+
 (Optional: deploy and link to your portfolio using GitHub Pages, Netlify, or Vercel)
 
 ✨ Credits
