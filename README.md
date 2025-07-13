@@ -34,7 +34,7 @@ A fully interactive, chat-based personal portfolio where visitors can message ke
 │ └── ...
 │
 ├── /assets
-│ └── Sathish_Resume.pdf # Downloadable resume
+│ └── Kaviya_Resume.pdf # Downloadable resume
 
 
 
