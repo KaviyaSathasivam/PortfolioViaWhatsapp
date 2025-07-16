@@ -103,7 +103,7 @@ Whether you're an employer, recruiter, or just a curious coder, this chat-style 
 
 <img width="947" height="907" alt="image" src="https://github.com/user-attachments/assets/604bf57b-35aa-4371-b786-b57e4f1792fa" />
 
-(Optional: deploy and link to your portfolio using GitHub Pages, Netlify, or Vercel)
+
 
 ✨ Credits
 Designed & Developed by Kaviya S
